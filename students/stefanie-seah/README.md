@@ -1,6 +1,5 @@
 # Stefanie Seah
 
-I am secretive 
 
 ### Homework 
 * [Stopwatch](https://silverframe.github.io/stopwatch)
